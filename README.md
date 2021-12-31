@@ -38,7 +38,7 @@ However, deep metric learning is different. Instead, of trying to output a singl
   We have face embeddings for each face in our data saved in a file, the next step is to recognize a new image that is not in our data. Hence the first step is to compute the face embedding for the image using the same network we used earlier and then compare this embedding with the rest of the embeddings that we have. We recognize the face if the generated embedding is closer or similar to any other embedding.<br>
 
 
-  <h1>What's include in this repository</h1>
+  <h1>What's include in this repository ?</h1>
   There files only. These are <br>
   1- <b>Feature_extractor.py</b> for extracting and saving the features from images (128-d vector for each face) of persons provided<br>
   2- <b>attendace.py</b> for real time implementation of Face-Recognization-based-Attendance-System. <br>
