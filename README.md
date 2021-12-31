@@ -1,5 +1,5 @@
 # Face-Recognization-based-Attendance-System
-An implementation of Attendance System in python.
+A real time implementation of Attendance System in python.
 
 <h1>Pre-requisites</h1>
 To understand the implentation of Facial recognization based Attendance System you  must have, <br>
