@@ -11,7 +11,7 @@ To understand the implentation of Facial recognization based Attendance System y
 2- dlib<br>
 3- face_recognition <br>
 4- os <br>
-5- imutils <br>'
+5- imutils <br>
 6- numpy <br>
 7- pickle <br>
 8- datetime <br>
