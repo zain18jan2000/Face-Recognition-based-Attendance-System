@@ -21,7 +21,8 @@ To understand the implentation of Facial recognization based Attendance System y
 
 <h1>Overview</h1>
 Face is the crucial part of the human body that uniquely identifies a person. Using the face characteristics the face recognition projects can be implemented. The  technique which I have used  to  implent this priject is <b>Deep  Metric Learning<b>. <br> 
-<h1>What is Deep  Metric Learning ?</h1> <br>
+<h1>What is Deep  Metric Learning ?</h1> 
+  <br>
 If you have any prior experience with deep learning you know that we typically train a network to: <br>
 Accept a single input image<br>
 And output a classification/label for that image <br>
