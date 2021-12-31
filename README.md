@@ -6,7 +6,7 @@ To understand the implentation of Facial recognization based Attendance System y
 – Basic understanding of Image Classification<br>
 – Knowledge of Python and Deep Learning<br>
 <br><br>
-<h1>Dependencies</h1><br>
+<h1>Dependencies</h1>
 1- OpenCV <br>
 2- dlib<br>
 3- face_recognition <br>
