@@ -20,7 +20,7 @@ To understand the implentation of Facial recognition based Attendance System you
 <b>Note:</b> To install dlib and face_recognition, you need to create a virtual environment in your IDE first.<br>
 
 <h1>Overview</h1>
-Face is the crucial part of the human body that uniquely identifies a person. Using the face characteristics the face recognition projects can be implemented. The  technique which I have used  to  implent this priject is <b>Deep  Metric Learning</b>. <br> 
+Face is the crucial part of the human body that uniquely identifies a person. Using the face characteristics the face recognition projects can be implemented. The  technique which I have used  to  implent this project is <b>Deep  Metric Learning</b>. <br> 
   
 <h1>What is Deep  Metric Learning ?</h1> 
 If you have any prior experience with deep learning you know that we typically train a network to: <br>
