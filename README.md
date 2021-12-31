@@ -1,8 +1,8 @@
-# Face-Recognization-based-Attendance-System
+# Face-Recognition-based-Attendance-System
 A real time implementation of Attendance System in python.
 
 <h1>Pre-requisites</h1>
-To understand the implentation of Facial recognization based Attendance System you  must have, <br>
+To understand the implentation of Facial recognition based Attendance System you  must have, <br>
 – Basic understanding of Image Classification<br>
 – Knowledge of Python and Deep Learning<br>
 <br>
@@ -41,12 +41,12 @@ However, deep metric learning is different. Instead, of trying to output a singl
   <h1>What's include in this repository ?</h1>
   Three files only. These are <br>
   1- <b>Feature_extractor.py</b> for extracting and saving the features from images (128-d vector for each face) of persons provided<br>
-  2- <b>attendace.py</b> for real time implementation of Face-Recognization-based-Attendance-System. <br>
+  2- <b>attendace.py</b> for real time implementation of Face-Recognition-based-Attendance-System. <br>
   3- <b>README.md</b> which you are reading.<br>
   
   <h1>How to implement ?</h1>
   Create a folder named 'images' at the same location where you have kept the python files mentioned above. In this folder you will create sub folders, each having the the images of the of a persons whom you want the program to recognize. Each folder should have 3-4 images. Change the names of subfolder to the names of the people to be identified.
-  Now first run <b>Feature_extractor.py</b>. This will takes some time and provide you a file named <b> face_enc </b> containing the features extracted from the the images. This file will be used by <b>attendace.py</b>. Now run attendace.py to real time implementation of Face-Recognization-based-Attendance-System. If a person recognized by the program then his/her name and time of recognization will be stored in <b> record.csv </b>. You don't need this file, program will create this file itself and will keep maintaining the attendance data in it. <br>
+  Now first run <b>Feature_extractor.py</b>. This will takes some time and provide you a file named <b> face_enc </b> containing the features extracted from the the images. This file will be used by <b>attendace.py</b>. Now run attendace.py to real time implementation of Face-Recognition-based-Attendance-System. If a person recognized by the program then his/her name and time of recognization will be stored in <b> record.csv </b>. You don't need this file, program will create this file itself and will keep maintaining the attendance data in it. <br>
   To further understand the working of program, just go through the code files and read the comments in it.
   
 
