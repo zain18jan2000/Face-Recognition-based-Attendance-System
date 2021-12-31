@@ -17,7 +17,7 @@ To understand the implentation of Facial recognization based Attendance System y
 8- datetime <br>
 9- Pandas <br><br>
 
-<b>Note:</b> To install dlib and face_recognition, you need to create a virtual environment first.<br>
+<b>Note:</b> To install dlib and face_recognition, you need to create a virtual environment in your IDE first.<br>
 
 <h1>Overview</h1>
 Face is the crucial part of the human body that uniquely identifies a person. Using the face characteristics the face recognition projects can be implemented. The  technique which I have used  to  implent this priject is <b>Deep  Metric Learning</b>. <br> 
