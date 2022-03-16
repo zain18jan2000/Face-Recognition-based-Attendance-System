@@ -46,7 +46,7 @@ However, deep metric learning is different. Instead, of trying to output a singl
   
   <h1>How to implement ?</h1>
   Create a folder named 'images' at the same location where you have kept the python files mentioned above. In this folder you will create sub folders, each having the images of the one person whom you want the program to recognize. Each folder should have 3-4 images. Change the names of subfolder to the names of the people to be identified.
-  Now first run <b>Feature_extractor.py</b>. This will takes some time and provide you a file named <b> face_enc </b> containing the features extracted from the the images. This file will be used by <b>attendace.py</b>. Now run attendace.py to real time implementation of Face-Recognition-based-Attendance-System. If a person recognized by the program then his/her name and time of recognization will be stored in <b> record.csv </b>. You don't need to create this file, program will itself create this file and will keep maintaining the attendance data in it. <br>
+  Now first run <b>Feature_extractor.py</b>. This will takes some time and provide you a file named <b> face_enc </b> containing the features extracted from the the images. This file will be used by <b>attendace.py</b>. Now run attendace.py for real time implementation of Face-Recognition-based-Attendance-System. If a person recognized by the program then his/her name and time of recognization will be stored in <b> record.csv </b>. You don't need to create this file, program will itself create this file and will keep maintaining the attendance data in it. <br>
  To further understand the working of program, just go through the code files and read the comments in it.
   
 
